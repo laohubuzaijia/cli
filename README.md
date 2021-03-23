@@ -140,7 +140,7 @@ After performing these steps you should be on the latest CLI version. Feel free 
 Everything inside this repository is [MIT licensed](./LICENSE).
 
 <!-- badges -->
-
+##1
 [build-badge]: https://img.shields.io/circleci/project/github/react-native-community/cli/master.svg?style=flat-square
 [build]: https://circleci.com/gh/react-native-community/cli/tree/master
 [version-badge]: https://img.shields.io/npm/v/@react-native-community/cli.svg?style=flat-square
